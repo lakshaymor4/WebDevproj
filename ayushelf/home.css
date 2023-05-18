@@ -1,0 +1,58 @@
+body {
+    margin: 0px 0px 0px 0px;
+}
+
+.top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 80px;
+    align-items: center;
+    background-color: black;
+    height: 100px;
+    box-sizing: content-box;
+
+}
+
+.fim {
+
+    margin: 0px 0px 0px 0px;
+    width: 1263px;
+    height: 549px;
+    position: relative;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding-right: 20px;
+    font-size: 20px;
+}
+
+.cm:hover {
+    color: red;
+    text-decoration: underline;
+
+}
+
+.habc {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.logo {
+    width: 60px;
+}
+
+.quote {
+    position: absolute;
+    font-size: 10mm;
+    top: 130px;
+    padding-left: 40px;
+}
+
+.aut {
+    padding-left: 200px;
+}
