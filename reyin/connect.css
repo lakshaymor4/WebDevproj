@@ -1,0 +1,159 @@
+body {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#im {
+    width: 170px;
+    padding-top: 10px;
+    padding-left: 20px;
+    height: 90px;
+}
+
+.topnav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 80px;
+    align-items: center;
+    height: 100px;
+    box-sizing: content-box;
+
+}
+
+#li {
+    padding-right: 20px;
+    text-decoration: none;
+    color: #a40000;
+}
+
+#ho {
+    padding-right: 20px;
+    color: black;
+    text-decoration: underline;
+}
+
+.wab {
+    background-color: #a40000;
+    color: white;
+    text-align: center;
+    padding-top: 0.2px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#waab,
+#lgb {
+    font-size: 30px;
+}
+
+.inp {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#na,
+#naa,
+#ju,
+#ki,
+#nat {
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+#na,
+#naa,
+#nat,
+#ju {
+    height: 40px;
+    padding-left: 15px;
+    width: 650px;
+    /* padding: 23px 16px 7px; */
+
+}
+
+#ta {
+    margin-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+
+}
+
+
+
+#ki {
+    height: 300px;
+    padding: 16px;
+    text-align: justify;
+}
+
+#butt {
+    width: 90px;
+    height: 50px;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+    border: none;
+    border-radius: 3px;
+}
+
+.pp {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#prot {
+    padding-bottom: 20px;
+    font-size: 12px;
+}
+
+.c {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    margin-top: 13px;
+}
+
+#app,
+#pi {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+
+#copyr {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: #595959;
+    font-weight: 400;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.ttre {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 20px;
+
+}
+
+#op {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+
+}
+
+#ri {
+    font-family: 'Roboto', sans-serif;
+    font-size: 28px;
+    padding-bottom: 20px;
+}
