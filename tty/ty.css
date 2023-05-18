@@ -1,0 +1,254 @@
+body{
+    margin: 0px ;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    /* background-image: url("bg-tablet-pattern.svg"); */
+}
+#pri{
+    padding-right: 30px;
+    color: hsl(233, 12%, 13%);
+}
+#pri:hover{
+    color: hsl(0, 4%, 90%);
+}
+a{
+    text-decoration: none;
+}
+ #gg{
+    max-width: 100%;
+    max-height: 100%;
+} 
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    /* align-content: baseline; */
+    padding-top: 50px;
+    /* height: 100px; */
+   
+}
+#p1{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    color: hsl(233, 12%, 13%);
+}
+#p2,#p4,#p10,#p8,#p6{
+    font-weight: 400;
+    color: rgb(188, 188, 188);
+}
+.p_1{
+    padding-top: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+#im{
+    width: 500px;
+}
+/* #imm{
+    transform: translate(100px,-100px);
+} */
+.p_2{
+    padding-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+#p3{
+    font-weight: 700;
+    font-size: 38px;
+    color: hsl(233, 12%, 13%);
+}
+#p9,#p7,#p5{
+    font-weight: 700;
+    font-size: 25px;
+    color: hsl(233, 12%, 13%);
+}
+#o,#t,#th{
+    border-style: solid;
+    border-color: black;
+    max-width: fit-content;
+    height: 20px;
+    
+    
+}
+.op_1,.op_2,.op_3{
+    display: flex;
+    flex-direction: row;
+    
+}
+.p_22{
+    display: flex;
+    flex-direction: column;
+}
+.name{
+    color: hsl(233, 12%, 13%);
+    font-weight: 700;
+    font-size: 18px;
+}
+.gib{
+    color: rgb(188, 188, 188);
+}
+#img{
+    width: 60px;
+}
+.p_33{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.ol,.oll,.ool{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.gib{
+    text-align: center;
+    /* border-style: solid; */
+    background-color: rgb(253, 253, 253);
+}
+#p11{
+    color: hsl(233, 12%, 13%);
+    font-weight:700;
+    font-size: 30px;
+    text-align: center;
+}
+.p_3{
+    padding-top: 100px;
+}
+.gss{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 40px;
+}
+#red,#red2,.gs{
+    background-color: #f25f3a;
+    color: white;
+    padding: 15px;
+    border-style: none;
+    border-radius: 40px;
+    -webkit-box-shadow: 0px 10px 10px -3px rgba(242,95,56,1);
+    -moz-box-shadow: 0px 10px 10px -3px rgba(242,95,56,1);
+    box-shadow: 0px 10px 10px -3px rgba(242,95,56,1);
+}
+#red:hover,#red2:hover,.gs:hover,#go:hover{
+    background-color: #fdb19c;
+}
+#o,#t,#th{
+    background-color: hsl(12, 88%, 59%);
+    color: white;
+    margin-top: 15px;
+    margin-right: 15px;
+    padding-top: 10px;
+    padding-bottom:10px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-style: none;
+    border-radius: 20px;
+}
+.red2{
+    padding-top: 40px;
+}
+.org{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: baseline;
+}
+
+.p_4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around   ;
+    align-items: center;
+    margin-top: 140px;
+    padding-top: 40px;
+    background-color: hsl(12, 88%, 59%);
+}
+
+.ggss{
+    background-color: white;
+    color: red;
+    
+    padding: 15px;
+    border-style: none;
+    border-radius: 40px;
+
+}
+#p12{
+    color: white;
+    font-weight:700;
+    font-size: 30px;
+    
+}
+.p_5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    background-color:hsl(233, 12%, 13%);
+}
+.p_55{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+}
+.hh,.hi{
+    display: flex;
+    flex-direction: column;
+
+}
+#iimg{
+    padding-right: 5px;
+}
+#yp{
+    padding-top: 20px;
+}
+#yp{
+    color: white;
+    text-decoration: none;
+
+}
+#yp:hover{
+    color: #f25f3a;
+}
+.mail{
+    display: flex;
+    flex-direction: row;
+}
+input{
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+#go{
+    height: 60px;
+    background-color: #f25f3a;
+    color: white;
+    padding: 10px;
+    border-style: none;
+    border-radius: 40px;
+    height: 20px;
+}
+.go{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.mail{
+    padding-top: 40px;
+}
+.oii{
+    display: flex;
+    flex-direction: column;
+}
+#lop{
+    color: #f25f3a;
+}
