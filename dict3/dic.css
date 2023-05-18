@@ -1,0 +1,158 @@
+body{
+    margin: 0px;
+    font-family: Crimson Text;
+    background-color: #EDF1D6;
+}
+#mm{
+    max-width: 55px;
+    max-height: 55px;
+}
+.p1{
+    color: #40513B;
+    /* font-size: 50px; */
+    font-family: 'Pacifico', cursive;
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-content: baseline;
+    padding-top: 30px;
+}
+select{
+    border: none;
+    
+}
+.nope{
+    background-color: #EDF1D6;
+    border: none;
+    transform: translate(250px,-20px);
+}
+.start,.star{
+    text-align: center;
+    padding-top: 150px;
+    color: #40513B;
+}
+select:focus{
+    outline: none;
+}
+#lp{
+    background-color: #E9EDC9;
+    border: solid;
+    width: 500px;
+    height: 40px;
+    border-radius: 9px;
+}
+#lp:focus{
+    outline: none;
+}
+.mai{
+    padding-top: 30px;
+    
+}
+.mai1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#sear{
+    width:20px;
+    
+    
+}
+#bit{
+    background-color: #E9EDC9;
+    border: solid;
+    border-left: none;
+    border-right: none;
+    transform: translate(-50px);    
+}
+#h{
+    font-size: 50px;
+    color: #40513B;
+}
+#hh{
+    font-size: 18px;
+    transform: translateY(-30px);
+    color: #609966;
+}
+.mai2{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+#ip{
+    width: 60px;
+    /* padding-left: 27px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 14px; */
+}
+#llp{
+    
+    border: none;
+    /* background-color: #b88adc; */
+    background-color: white;
+    
+}
+.mai22{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+#p1{
+    font-weight: 700;
+    font-size: 23px;
+    text-align: center;
+    /* transform: translate(340px); */
+}
+ 
+.oiu{
+    padding-left: 40px;
+}
+hr{
+    width: 525px;
+    transform: translate(65px,-35px);
+    background-color: #fbfbfb;
+}
+#lis,#p2{
+    color: #609966;
+}
+#p2{
+    font-size: 18px;
+    font-weight: 500;
+}
+/* li{
+    color: black;
+} */
+li{
+    color: #609966;
+}
+li span{
+    color: black;
+}
+#p3{
+    color: #609966;
+    font-weight: 600;
+    font-size: 18px;
+}
+.syn{
+    display: flex;  
+    flex-direction: row;
+    justify-content: center;
+}
+.sy{
+    display: flex;
+    flex-direction: row;
+}
+#p3{
+    padding-left:10px;
+}
+.mean{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
